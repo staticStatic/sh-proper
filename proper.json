@@ -1,0 +1,16 @@
+{
+  "name": "staticStatic",
+  "slug": "static-static",
+  "description": "stats",
+  "website": "https://github.com/staticStatic",
+  "glyph": "🎈",
+  "owner": {
+    "type": "user",
+    "profile": "g@neobii"
+  },
+  "zones": [{
+    "comm": {
+      "address": "@"
+    }
+  }]
+}
