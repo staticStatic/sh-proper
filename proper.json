@@ -1,9 +1,9 @@
 {
   "name": "staticStatic",
   "slug": "static-static",
-  "description": "stats",
+  "description": "StsT",
   "website": "https://github.com/staticStatic",
-  "glyph": "🎈",
+  "glyphs": ["🎈","🎈","🎈","🎈"],
   "owner": {
     "type": "user",
     "profile": "g@neobii"
