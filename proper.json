@@ -12,5 +12,13 @@
     "comm": {
       "address": "@"
     }
-  }]
+  }],
+  "colorScheme": {
+    "1": "#A1215C",
+    "2": "#DE7CBA",
+    "3": "#77859E",
+    "4": "#DB1068",
+    "background": "#121212",
+    "foreground": "#FFF"
+  }
 }
