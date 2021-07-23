@@ -31,11 +31,13 @@
     "fonts": [
       {
         "name": "Tourney", 
-        "src": "https://fonts.googleapis.com/css2?family=Tourney:wght@800&display=swap"
+        "src": "https://fonts.googleapis.com/css2?family=Tourney:wght@800&display=swap",
+        "family": "'Tourney', cursive;"
       },
       {
         "name": "Yomogi", 
-        "src": "https://fonts.googleapis.com/css2?family=Yomogi&display=swap"
+        "src": "https://fonts.googleapis.com/css2?family=Yomogi&display=swap",
+        "family": "'Yomogi', cursive"
       }
     ]
   }
