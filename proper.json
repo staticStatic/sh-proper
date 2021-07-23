@@ -27,6 +27,16 @@
       {"name": "Deep Violet", "slug": "deep-violet", "hex": "#32006a"},
       {"name": "Vampire Black", "slug": "vampire-black", "hex": "#090909"},
       {"name": "Eerie Black", "slug": "eerie-black", "hex": "#1d1d1d"}
+    ],
+    "fonts": [
+      {
+        "name": "Tourney", 
+        "src": "https://fonts.googleapis.com/css2?family=Tourney:wght@800&display=swap"
+      },
+      {
+        "name": "Yomogi", 
+        "src": "https://fonts.googleapis.com/css2?family=Yomogi&display=swap"
+      }
     ]
   }
 }
