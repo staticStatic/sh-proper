@@ -13,12 +13,20 @@
       "address": "@"
     }
   }],
-  "colorScheme": {
-    "1": "#A1215C",
-    "2": "#DE7CBA",
-    "3": "#77859E",
-    "4": "#DB1068",
-    "background": "#121212",
-    "foreground": "#FFF"
+  "style": {
+    "colors": [
+      {"name": "Argent", "slug": "argent", "hex": "#c0c0c0"},
+      {"name": "Acid Green", "slug": "acid-green", "hex": "#c0c000"},
+      {"name": "Islamic Green", "slug": "islamic-green", "hex": "#00c000"},
+      {"name": "Turquoise Surf", "slug": "turquoise-surf", "hex": "#00c0c0"},
+      {"name": "Deep Magenta", "slug": "deep-magenta", "hex": "#c000c0"},
+      {"name": "Medium Blue", "slug": "medium-blue", "hex": "#c00000"},
+      {"name": "Chinese Black", "slug": "chinese-black", "hex": "#131313"},
+      {"name": "Oxford Blue", "slug": "oxford-blue", "hex": "#00214c"},
+      {"name": "White Fluff", "slug": "white-fluff", "hex": "#ffffff"},
+      {"name": "Deep Violet", "slug": "deep-violet", "hex": "#32006a"},
+      {"name": "Vampire Black", "slug": "vampire-black", "hex": "#090909"},
+      {"name": "Eerie Black", "slug": "eerie-black", "hex": "#1d1d1d"}
+    ]
   }
 }
