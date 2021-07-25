@@ -12,33 +12,5 @@
     "comm": {
       "address": "@"
     }
-  }],
-  "style": {
-    "colors": [
-      {"name": "Argent", "slug": "argent", "hex": "#c0c0c0"},
-      {"name": "Acid Green", "slug": "acid-green", "hex": "#c0c000"},
-      {"name": "Islamic Green", "slug": "islamic-green", "hex": "#00c000"},
-      {"name": "Turquoise Surf", "slug": "turquoise-surf", "hex": "#00c0c0"},
-      {"name": "Deep Magenta", "slug": "deep-magenta", "hex": "#c000c0"},
-      {"name": "Medium Blue", "slug": "medium-blue", "hex": "#c00000"},
-      {"name": "Chinese Black", "slug": "chinese-black", "hex": "#131313"},
-      {"name": "Oxford Blue", "slug": "oxford-blue", "hex": "#00214c"},
-      {"name": "White Fluff", "slug": "white-fluff", "hex": "#ffffff"},
-      {"name": "Deep Violet", "slug": "deep-violet", "hex": "#32006a"},
-      {"name": "Vampire Black", "slug": "vampire-black", "hex": "#090909"},
-      {"name": "Eerie Black", "slug": "eerie-black", "hex": "#1d1d1d"}
-    ],
-    "fonts": [
-      {
-        "name": "Tourney", 
-        "src": "https://fonts.googleapis.com/css2?family=Tourney:wght@800&display=swap",
-        "family": "'Tourney', cursive"
-      },
-      {
-        "name": "Yomogi", 
-        "src": "https://fonts.googleapis.com/css2?family=Yomogi&display=swap",
-        "family": "'Yomogi', cursive"
-      }
-    ]
-  }
+  }]
 }
